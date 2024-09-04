@@ -175,12 +175,13 @@ html {
     transition: 0.9s;
     border-radius: 5px;
     box-shadow: 3px 3px 5px black;
-    z-index: 5;
+  
 }
 
 .projects img:hover {
     transform: scale(1.1);
     opacity: 1;
+    z-index: 5;
 }
 
 .action {
